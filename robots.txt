@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://princek054.github.io/techvolts-solutions/sitemap.xml
